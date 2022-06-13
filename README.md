@@ -1,5 +1,15 @@
-# skinnect-bangkit-project
-Bangkit 2022 - Capstone Project - Skin Connect - Healthcare
+# Project Information
+Bangkit 2022 - Capstone Project
+
+
+Q and A About Project
+1. What is your capstone project theme ?
+> Healthcare
+2. What is your capstone title ?
+> Skin connect
+3. What is the technology stack behind it ?
+> Python, JavaScript, Kotlin, TensorFlow, Google Cloud, Node.JS, Express.JS, MongoDB
+
 
 Dataset
 1. [First Data](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic)
@@ -18,4 +28,13 @@ Dataset
         label_encode.json
 ```
 
-[Agile Daily Report](https://github.com/users/SophrosyneEunoia/projects/3)
+Skinnect Application Minimum Requirement
+
+```md
+python 3.8 version
+numpy package
+open-cv package
+tensorflow package
+flask package
+```
+
