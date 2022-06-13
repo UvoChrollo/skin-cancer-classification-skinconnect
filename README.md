@@ -32,9 +32,23 @@ Skinnect Application Minimum Requirement
 
 ```md
 python 3.8 version
-numpy package
-open-cv package
-tensorflow package
-flask package
+pip install numpy
+pip install opencv-python
+pip install tensorflow
+pip install flask
+```
+
+Permission
+```md
+sudo chmod +x :
+API.py
+utils/label_encode.json
+utils/model.py
+utils/demo_weight.h5
+```
+
+Run API
+```md
+python3 API.py
 ```
 
